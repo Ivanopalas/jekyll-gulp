@@ -1,0 +1,3 @@
+name: Aksyutin Ivan
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
